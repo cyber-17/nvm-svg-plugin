@@ -32,3 +32,4 @@ To see this template in action, take a look at my other plugins.
 
 ## License MIT
 # nvm-svg-plugin
+# nvm-svg-plugin
